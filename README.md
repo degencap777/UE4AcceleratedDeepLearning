@@ -17,4 +17,4 @@ Figure https://youtu.be/XC-DAMJfip0 <br>
 AIモデルのデータ処理のリアルタイム表示。
 
 Test Course https://youtu.be/lEVokq95QWE <br>
-学習済みAIがテスト用コースで走行する様子。
+学習済みAIがテスト用コース「Island Tour」で走行する様子。
