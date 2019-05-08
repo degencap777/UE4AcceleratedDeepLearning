@@ -1,5 +1,9 @@
 # UE4-Accelerated-DeepLearning
 UNREAL ENGINE 4と連携したPythonによるDeep Reinforcement Learning AI開発ソリューションのソースコード一部。
+
+**UEAccDL.py**	学習用コード<br>
+**UEAccDL_Play2_Show_Lite.py**	展示用コード<br>
+**UEADL_DQN_model.hdf5**　AIモデル自体<br>
 <br>
 
 # ビデオ
