@@ -18,3 +18,8 @@ AIモデルのデータ処理のリアルタイム表示。
 
 Test Course https://youtu.be/lEVokq95QWE <br>
 学習済みAIがテスト用コース「Island Tour」で走行する様子。
+<br><br>
+
+# おまけ
+HAL東京2018進級制作展（HAL EVENT WEEK）金賞受賞作品「テクリズム」の実プレイ動画：<br>
+https://youtu.be/8TjWX_X040w
